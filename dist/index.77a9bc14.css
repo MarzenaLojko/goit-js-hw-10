@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #212121;
+  background-color: #fafafa;
+  font-family: Alegreya Sans SC;
+  font-size: 22px;
+  line-height: 1.5;
+}
+
+#search-box {
+  font: inherit;
+  max-width: 320px;
+  margin-bottom: 16px;
+  padding: 8px;
+}
+
+li {
+  list-style: none;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+/*# sourceMappingURL=index.77a9bc14.css.map */
